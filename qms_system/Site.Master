@@ -1,0 +1,220 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="qms_system.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - QMS Application</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    
+   
+    <!-- CSS style section -->
+    <style>
+        .Counters{
+            display: block;
+            margin-top: -30px;
+            margin-bottom: -30px;
+            text-align:center;
+            width: 40%;
+            padding-right:100px;
+            padding-top:60px;
+            margin-left: -200px;
+            margin-top: -50px;
+            background-color:#EFEAD8;
+        }
+        .counter1,.counter2,.counter3,.counter4,.counter5{
+            padding-top: -40px;
+            border:1px solid black;
+            margin-bottom: 20px;
+            margin-left: 40px;
+            margin-right: 40px;
+            box-sizing:border-box;
+            box-shadow: 10px 8px 8px;
+            border-radius: 10px;
+            height: 100px;
+            background-color:white;
+        }
+        .counter1 h2,.counter2 h2,.counter3 h2,.counter4 h2,.counter5 h2{
+            
+            color: #041C32;            
+        }
+        .token-show{
+            position: absolute;
+            top: 20%;
+            left: 40%;
+            padding: 50px 30px;
+            border: 1px solid black;
+            height: 400px;
+            width: 730px;
+            box-sizing:border-box;
+            box-shadow: 10px 18px 8px;
+            border-radius: 10px;
+            animation: up-down 1s ease-in-out infinite alternate-reverse both;
+            background-color: #ffffff;
+        }
+        .token-show h1{
+            
+            color: #041C32;
+        }
+        .row{
+            
+            padding-left: 100px;
+            padding-right: -200px;
+            margin-right: -104px;
+            margin-top: -50px;
+            padding-bottom: 30px; 
+            
+        }
+        @keyframes up-down {
+        0% {
+            transform: translateY(10px);
+        }
+        100% {
+            transform: translateY(-10px);
+        }
+            }
+        @-webkit-keyframes up-down {
+            0% {
+                transform: translateY(10px);
+                }
+            100% {
+                transform: translateY(-10px);
+                }
+            }
+        nav {
+            margin-top: -50px;
+            height: 80px;
+            
+ 
+        }
+        footer{
+            padding-top:15px;
+            margin-top: -35px;
+            color: white;
+            margin-bottom: -40px;
+            margin-left: -104px;
+            margin-right: -104px;
+            padding-left: 550px;
+        }
+        #get-token {
+            border: 1px solid black;
+            padding: 20px;
+            width: 40%;
+            height: 400px;
+            position: relative;
+            left: 30%;
+        }
+        @media print {
+            #txtusername,
+            #txtcontact,
+            #txtlicence{
+                font-size: 30px;
+            }
+        }
+        @media (max-width: 768px) {
+  
+  
+            .row{
+            width: 100%;
+            height: auto;
+            }
+        }
+        @media (max-width: 1360px){
+            .row{
+                width: 100%;
+                height: auto;
+            }
+        }
+        .navbar-brand img{
+            width: 80px;   
+        }       
+
+    </style>
+    <!-- End CSS -->
+    <asp:ContentPlaceHolder ID="chead" runat="server">
+    </asp:ContentPlaceHolder> 
+
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+               
+        
+            </Scripts>
+             
+        </asp:ScriptManager>
+
+        <nav class="navbar navbar-expand-lg navbar-light" style="background-color:dimgrey;">
+  <a class="navbar-brand" href="#" style="color: white;"><img src="../Images/qms_logo_for_MCDC.png"/>QMS APPLICATION</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active" >
+        <a runat="server" href="~/Pages/Home" class="nav-link" style="color: white;">HOME <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a runat="server" href="~/Pages/Reception" class="nav-link" style="color: white;">RECEPTION
+
+
+        </a>        
+      </li>
+      
+      <li class="nav-item dropdown" >
+        <a class="nav-link dropdown-toggle" style="color: white;" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">
+          COUNTERS
+        </a>
+          
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="color: white;">
+          <a runat="server" class="dropdown-item" href="~/CounterTemplate/Counter1">Counter-1</a>
+          <a runat="server" class="dropdown-item" href="~/CounterTemplate/Counter2">Counter-2</a>
+          <a runat="server" class="dropdown-item" href="~/CounterTemplate/Counter3">Counter-3</a>
+          <a runat="server" class="dropdown-item" href="~/CounterTemplate/Counter4">Counter-4</a>
+          <a runat="server" class="dropdown-item" href="~/CounterTemplate/Counter5">Counter-5</a>
+        </div>
+      </li>
+    </ul>
+    
+  </div>
+</nav>
+        <div class="container body-content">
+            
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer class="" style="background-color:dimgrey;">
+                <p>&copy; 2022 Wise & Wealth Co.ltd</p>
+            </footer>
+        </div>
+
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,258 @@
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\qms_system.dll.config
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\qms_system.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\qms_system.pdb
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\csc.exe
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\csc.exe.config
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\csc.rsp
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\csi.exe
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\csi.exe.config
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\csi.rsp
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.AppContext.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Collections.Immutable.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Console.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Globalization.Calendars.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.IO.Compression.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.IO.FileSystem.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Net.Http.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Net.Sockets.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Reflection.Metadata.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.ValueTuple.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Xml.XPath.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\vbc.exe
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\vbc.exe.config
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\vbc.rsp
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\VBCSCompiler.exe
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\roslyn\VBCSCompiler.exe.config
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\Antlr3.Runtime.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\AspNet.ScriptManager.bootstrap.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\AspNet.ScriptManager.jQuery.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\Microsoft.ScriptManager.WebForms.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\Microsoft.Web.Infrastructure.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\Newtonsoft.Json.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\System.Buffers.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\System.Collections.Immutable.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\System.Memory.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\System.Numerics.Vectors.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\System.Reflection.Metadata.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\System.Web.Optimization.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\WebGrease.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\System.Buffers.xml
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\System.Collections.Immutable.xml
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\System.Memory.xml
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\System.Numerics.Vectors.xml
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\System.Reflection.Metadata.xml
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\System.Web.Optimization.xml
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\Newtonsoft.Json.xml
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\Antlr3.Runtime.pdb
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\obj\Debug\qms_system.csproj.AssemblyReference.cache
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\obj\Debug\qms_system.csproj.CoreCompileInputs.cache
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\obj\Debug\qms_system.csproj.CopyComplete
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\obj\Debug\qms_system.dll
+C:\MyData\Projects_Files\MCDC\qms_system\qms_system\obj\Debug\qms_system.pdb
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\qms_system.dll.config
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\qms_system.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\qms_system.pdb
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\csc.exe
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\csc.exe.config
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\csc.rsp
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\csi.exe
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\csi.exe.config
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\csi.rsp
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.AppContext.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Collections.Immutable.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Console.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Globalization.Calendars.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.IO.Compression.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.IO.FileSystem.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Net.Http.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Net.Sockets.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Reflection.Metadata.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.ValueTuple.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Xml.XPath.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\vbc.exe
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\vbc.exe.config
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\vbc.rsp
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\VBCSCompiler.exe
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\roslyn\VBCSCompiler.exe.config
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\Antlr3.Runtime.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\AspNet.ScriptManager.bootstrap.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\AspNet.ScriptManager.jQuery.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\Microsoft.ScriptManager.WebForms.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\Microsoft.Web.Infrastructure.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\Newtonsoft.Json.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\System.Buffers.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\System.Collections.Immutable.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\System.Memory.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\System.Numerics.Vectors.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\System.Reflection.Metadata.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\System.Web.Optimization.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\WebGrease.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\System.Buffers.xml
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\System.Collections.Immutable.xml
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\System.Memory.xml
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\System.Numerics.Vectors.xml
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\System.Reflection.Metadata.xml
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\System.Web.Optimization.xml
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\Newtonsoft.Json.xml
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\Antlr3.Runtime.pdb
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\obj\Debug\qms_system.csproj.AssemblyReference.cache
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\obj\Debug\qms_system.csproj.CoreCompileInputs.cache
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\obj\Debug\qms_system.csproj.CopyComplete
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\obj\Debug\qms_system.dll
+C:\MyData\Projects_Files\MCDC\qms_system - Copy\qms_system\obj\Debug\qms_system.pdb
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\obj\Debug\qms_system.csproj.AssemblyReference.cache
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\obj\Debug\qms_system.csproj.CoreCompileInputs.cache
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\qms_system.dll.config
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\qms_system.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\qms_system.pdb
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\csc.exe
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\csc.exe.config
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\csc.rsp
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\csi.exe
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\csi.exe.config
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\csi.rsp
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.AppContext.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Collections.Immutable.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Console.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Globalization.Calendars.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.IO.Compression.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.IO.FileSystem.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Net.Http.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Net.Sockets.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Reflection.Metadata.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.ValueTuple.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Xml.XPath.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\vbc.exe
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\vbc.exe.config
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\vbc.rsp
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\VBCSCompiler.exe
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\roslyn\VBCSCompiler.exe.config
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\Antlr3.Runtime.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\AspNet.ScriptManager.bootstrap.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\AspNet.ScriptManager.jQuery.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\Microsoft.ScriptManager.WebForms.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\Microsoft.Web.Infrastructure.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\Newtonsoft.Json.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\System.Buffers.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\System.Collections.Immutable.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\System.Memory.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\System.Numerics.Vectors.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\System.Reflection.Metadata.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\System.Web.Optimization.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\WebGrease.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\System.Buffers.xml
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\System.Collections.Immutable.xml
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\System.Memory.xml
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\System.Numerics.Vectors.xml
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\System.Reflection.Metadata.xml
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\System.Web.Optimization.xml
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\Newtonsoft.Json.xml
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\Antlr3.Runtime.pdb
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\obj\Debug\qms_system.csproj.CopyComplete
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\obj\Debug\qms_system.dll
+C:\MyData\Projects_Files\MCDC\Queue_System\qms_system\obj\Debug\qms_system.pdb

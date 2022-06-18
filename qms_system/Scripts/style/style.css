@@ -1,0 +1,18 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.countercontainer {
+    font-family: Arial;
+    font-weight: 800;
+    font-size: 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 400px;
+    height: 200px;
+    margin-bottom: 235px;
+    color: #041C32;
+    padding-left: 60px;
+    padding-top: 50px;
+}
